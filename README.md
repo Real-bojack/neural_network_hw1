@@ -2,6 +2,9 @@
 ```
 dataset/
     4个gz压缩文件为mnist数据集
+        数据集及模型参数文件的百度云链接：
+        链接：https://pan.baidu.com/s/1fM_3xj_mN1xRga_2VqKWwA 
+        提取码：ee84  
     mnist.py 数据集的相关操作
     mnist.pkl 保存的数据集的参数，用于模型的读取
 
